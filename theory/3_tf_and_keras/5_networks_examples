@@ -1,0 +1,7 @@
+Examples: https://keras.io/examples/structured_data/wide_deep_cross_networks/
+
+We can distinguish:
+- Wide & deep: https://ai.googleblog.com/2016/06/wide-deep-learning-better-together-with.html
+- Deep & cross: https://arxiv.org/abs/1708.05123
+
+
